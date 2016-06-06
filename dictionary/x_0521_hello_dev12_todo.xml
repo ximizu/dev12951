@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Todo" max_length="40" name="x_0521_hello_dev12_todo" type="collection"/>
+</database>
